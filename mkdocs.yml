@@ -1,0 +1,28 @@
+site_name: YouInTheClip trend guides
+site_url: https://youintheclip.readthedocs.io/
+repo_url: https://github.com/hanshs474/youintheclip-guides
+site_description: How the AI video trends people are posting work, and how to make your own from one photo.
+theme: readthedocs
+nav:
+  - Overview: index.md
+  - Trends:
+      - "Anthropomorphic Dog AI": trends/anthropomorphic-dog-ai-video.md
+      - "Aura Farming Korean AI": trends/aura-farming-korean-ai-video.md
+      - "Babydoll Dance Video": trends/babydoll-dance-ai-video.md
+      - "Bad Times AI": trends/bad-times-ai-video.md
+      - "Billie Jean Dance AI": trends/billie-jean-dance-ai-video.md
+      - "Blocus Poursuite AI": trends/blocus-poursuite-ai-video.md
+      - "Bulin 47 AI Video": trends/bulin-47-ai-video.md
+      - "Happy Friday I'm Onnat AI": trends/onnat-football-car-ai-video.md
+      - "Hawak Mo Ang Beat AI": trends/hawak-ang-beat-ai-video.md
+      - "Keep On Steppin AI": trends/keep-on-steppin-ai.md
+      - "Nicole Kidman Dance AI": trends/nicole-kidman-dance-ai-video.md
+      - "One Desire Pilot Transition": trends/one-desire-pilot-transition-ai-video.md
+      - "Ozil Goal AI": trends/ozil-goal-ai.md
+      - "Phone on Train Trend": trends/phone-on-train-ai-video.md
+      - "Rumpelstiltskin AI": trends/rumpelstiltskin-ai.md
+      - "Sniffer Dog Meme": trends/sniffer-dog-ai-video.md
+      - "Tecktonik Dance AI": trends/tecktonik-dance-ai.md
+      - "Toz Pembe Dance AI": trends/toz-pembe-dance-ai-video.md
+      - "Unforgettable Car Trend AI": trends/unforgettable-car-ai-video.md
+      - "Zombie AI Trend": trends/zombie-apocalypse-ai-video.md
